@@ -6,7 +6,7 @@ print(b)
 for i in range (x):
     #add 
     c=a+b
-    #after adding and printing should refresh variables by shift nbrs b will be a 
+    #after adding and printing should refresh variables by shift nbrs a will take value of b and b will take value of c 
     a=b
     b=c
     print(c)
