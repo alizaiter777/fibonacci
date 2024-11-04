@@ -10,5 +10,5 @@ for i in range (nbr):
     a=b
     b=c
     print(c)
-    print(c)
+    
 
